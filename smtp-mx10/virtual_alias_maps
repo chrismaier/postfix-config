@@ -1,0 +1,11 @@
+# Mail aliases / re-routing from:->to:
+#
+#
+#
+chris@drunkenidiot.org			chris
+postmaster@drunkenidiot.org		chris
+abuse@drunkenidiot.org			chris
+chris@drunkenidiot.com			chris
+postmaster@drunkenidiot.com		chris
+abuse@drunkenidiot.com			chris
+

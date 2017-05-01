@@ -1,0 +1,18 @@
+# Domains that we accept mail for
+# Since the map file must be two columns
+# - we use the domain date-added format
+#
+# domain	date-added
+# foo.com	2012-01-25
+#
+#  BE VERY CERTAIN THAT VIRTUAL DOMAINS ARE 
+#	*******	NOT *******
+#  ALSO CONFIGURED IN MYDESTINATION
+#
+drunkenidiot.org	2013-03-15
+drunkenidiot.com	2013-03-15
+themaierfamily.org	2013-03-15
+themaierfamily.net	2013-03-15
+tmfhn.org		2013-03-15
+tmfhn.net		2013-03-15
+rr.com			2013-03-13
